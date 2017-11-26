@@ -22,7 +22,7 @@ public class where2eat implements Runnable {
 		new where2eat();
 
 	}
-
+	// Test
 	@Override
 	public void run() {
 		
